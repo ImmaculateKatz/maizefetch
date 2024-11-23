@@ -3,16 +3,16 @@
 if [[ $* == *--help ]]; then
     echo
     echo -e "\e[1mcottonfetch v1.7\e[0m"
-    echo "created by @plasmacotton"
-    echo
+    echo "originally created by @plasmacotton"
     echo "usage:"
-    echo "cottonfetch | the fetch"
-    echo "cottonfetch --help | this message"
+    echo "maizefetch | the fetch"
+    echo "maizefetch --help | this message"
     echo 
     echo "please do not run this in the tty!"
     echo 
     echo "please do note that this should be in a \$PATH. if it isn't, it is reccomended to:"
-    echo
+    echo 
+    echo "original instructions:"
     echo "run \"sudo/doas/rar mv cottonfetch (YOUR \$PATH)"
     echo "and then \"chmod +x (path to cottonfetch)"
     echo
