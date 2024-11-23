@@ -1,2 +1,2 @@
-# cottonfetch
-there's no cotton. false advertizing. reported to the fbi. lifetime in jail.
+# Maizefetch
+forked from https://github.com/plasmacotton/cottonfetch
